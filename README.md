@@ -7,6 +7,7 @@ Esse é um pequeno manual para os alunos que estão inicio do curso.
   <li>Material para estudo GRÁTIS.</li>
   <li>Tendências</li>
   <li>Networking</li>
+  <li>Tópicos</li>
 </ul>
 
 ## Por onde começar?
@@ -18,6 +19,8 @@ Pela melhor plataforma web de aprendizagem interativa, a <a href="https://www.fr
 <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank"> Livros grátis de Programação</a>.
 
 <a href="https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-pt_BR.md" target="_blank"> Livros grátis de Programação (em Português)</a>.
+
+<a href="https://www.class-central.com/subject/cs" target="_blank">Cursos da Ivy League</a>: Mais de 250 cursos onlines grátis das 8 universidades mais prestigiadas dos Estados Unidos: Brown, Columbia, Cornell, Dartmouth, Harvard, Princeton, Universidade da Pensilvânia e Yale.
 
 ## Tendências.
 
@@ -38,4 +41,20 @@ Networking é conhecer as pessoas certas, que podem dar uma referência ou fazer
 
 <a href="https://www.facebook.com/souwebpel/" target="_blank">SouWebPel</a>
 
+## Tópicos
 
+<a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Roadmap 2018</a>
+
+Controle de Versões (CVS).
+
+Scrum.
+
+HTTP/HTTPS e API REST.
+
+TDD.
+
+SEO.
+
+Google Analytics e Adwords.
+
+Projetos e Ideias.
