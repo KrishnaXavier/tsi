@@ -2,15 +2,9 @@
 
 Esse é um pequeno manual para os alunos que estão inicio do curso.
 
-<ul>
-  <li>Por onde começar?</li>
-  <li>Material para estudo GRÁTIS.</li>
-  <li>Tendências</li>
-  <li>Networking</li>
-  <li>Tópicos</li>
-</ul>
 
 ## Por onde começar?
+
 Pela melhor plataforma web de aprendizagem interativa, a <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.
 <br>Veja alguns exemplo do que você aprender com ela: HTML5, CSS3, JavaScript, Databases Git & GitHub Node.js e React.js. Além disso ela também gera certificados. 
 
@@ -41,20 +35,17 @@ Networking é conhecer as pessoas certas, que podem dar uma referência ou fazer
 
 <a href="https://www.facebook.com/souwebpel/" target="_blank">SouWebPel</a>
 
-## Tópicos
+## Tópicos Recomendados.
 
-<a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Roadmap 2018</a>
-
-Controle de Versões (CVS).
-
-Scrum.
-
-HTTP/HTTPS e API REST.
-
-TDD.
-
-SEO.
-
-Google Analytics e Adwords.
-
-Projetos e Ideias.
+<ol>  
+  <li>Controle de Versões (CVS).</li>
+  <li>Scrum: Ser agil não é uma opção.</li>
+  <li>HTTP/HTTPS e API REST.</li>
+  <li>Projetos e Ideias: Anotar todas as ideias, sejam boas ou ruins.</li>  
+  <li>Testes Automatizados.</li>
+  <li>Google Analytics e Adwords.</li>
+  <li>SEO.</li>
+  <li>SPA (tendência).</li>
+  <li>PWA (tendência).</li>    
+  <li>Sugestão de <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Roadmap 2018</a>.</li>
+</ol>
