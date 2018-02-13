@@ -1,7 +1,8 @@
 # TSI - IFSul - Pelotas/RS
 
-Esse é um pequeno manual para os alunos que estão inicio do curso.
+Sugestões complementares ao curso, principalmente para alunos que estão nos primeiros semestres.
 
+<h6><i>O Desenvolvedor cresce fora da zona de conforto.</i></h6>
 
 ## Por onde começar?
 
