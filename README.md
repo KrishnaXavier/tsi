@@ -21,7 +21,7 @@ Pela melhor plataforma web de aprendizagem interativa, a <a href="https://www.fr
 
 <a href="https://github.com/trending" target="_blank"> GitHub Trending</a>: Têndecias de projetos no GitHub (ver uma vez por dia).
 
-<a href="http://githut.info" target="_blank">Têndecias de linguagens no GitHub.</a>
+<a href="http://githut.info" target="_blank">Têndecias de linguagens no GitHub</a>.
 
 <a href="https://www.thoughtworks.com/pt/radar" target="_blank">Thought Works:</a> Radar de Linguagens & Frameworks, Técnicas, Ferramentas e Plataformas.
 
