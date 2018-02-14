@@ -50,3 +50,7 @@ Networking é conhecer as pessoas certas, que podem dar uma referência ou fazer
   <li>PWA (tendência).</li>    
   <li>Sugestão de <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Roadmap 2018</a>.</li>
 </ol>
+
+## Extras.
+
+[Assistência Estudantil](http://pelotas.ifsul.edu.br/noticias/editais-de-assistencia-estudantil-para-o-semestre-2018-1-ja-estao-disponiveis): Para alunos em situação de vulnerabilidade social (Art. 13 do Regulamento da Política de Assistência Estudantil).
