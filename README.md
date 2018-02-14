@@ -47,8 +47,7 @@ Networking é conhecer as pessoas certas, que podem dar uma referência ou fazer
   <li>Google Analytics e Adwords.</li>
   <li>SEO.</li>
   <li>SPA (tendência).</li>
-  <li>PWA (tendência).</li>    
-  <li>Sugestão de <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Roadmap 2018</a>.</li>
+  <li>PWA (tendência).</li>      
 </ol>
 
 ## Extras.
@@ -56,3 +55,7 @@ Networking é conhecer as pessoas certas, que podem dar uma referência ou fazer
 [Github para estudantes](https://education.github.com/pack).
 
 [Assistência Estudantil](http://pelotas.ifsul.edu.br/noticias/editais-de-assistencia-estudantil-para-o-semestre-2018-1-ja-estao-disponiveis): Para alunos em situação de vulnerabilidade social (Art. 13 do Regulamento da Política de Assistência Estudantil).
+
+[Code Arena](https://www.codearena.com.br/): Hackathon em Pelotas.
+
+Sugestão de [Roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)
