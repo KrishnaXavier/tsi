@@ -2,7 +2,7 @@
 
 Sugestões complementares ao curso, principalmente para alunos que estão nos primeiros semestres.
 
-<h6><i>O Desenvolvedor cresce fora da zona de conforto.</i></h6>
+<h6><i>O Desenvolvedor não cresce fora da zona de conforto.</i></h6>
 
 ## Por onde começar?
 
